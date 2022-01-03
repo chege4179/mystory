@@ -1,0 +1,47 @@
+API
+
+/user/login
+/user/signup
+/user/resetpassword
+
+/post/userposts?username={} - Individual posts by a certain user
+/post/latest -Latest posts
+/post/specific?id={}&username={}
+/post/
+
+DEPLOYMENT
+1.Refactor locally stored images to be uploaded to cloudinary
+2.Deploy the MySQL database remotely (AWS or Cpanel)
+3.Deploy the server code on heroku
+4.Deploy the app for $25 to the playstore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse iaculis faucibus mi, vel eleifend erat tristique euismod. Vivamus sed nulla in lorem vestibulum ornare eget et lorem. Donec mollis aliquam sodales. Pellentesque ac urna vel lacus pellentesque tincidunt vel non felis. Phasellus pellentesque, erat id vulputate placerat, sem ante feugiat purus, eget blandit erat sem vel augue. In molestie neque at diam ultrices, vitae tristique risus tincidunt. Donec facilisis eros ut efficitur feugiat. Nulla vel luctus magna. Curabitur maximus finibus ornare. Sed iaculis pretium neque sed sagittis. Sed non felis vitae nulla pellentesque cursus ut vitae erat. Ut id commodo turpis. Quisque at enim mauris. Nulla rhoncus tellus a dui iaculis commodo. In ac eros libero. Cras non ipsum turpis.
+
+Phasellus at fringilla est, ut varius nulla. Praesent lobortis metus nec metus mattis, vel fringilla magna euismod. Aenean mollis laoreet massa. Donec ultricies risus vel risus rhoncus aliquam luctus eu lacus. Curabitur eu venenatis dui. Sed vitae placerat enim, quis egestas neque. Nam sed lacus at dolor luctus consequat. Duis tincidunt vehicula felis eu sagittis. Etiam at nisl eu ligula pellentesque condimentum eu ac lorem. Ut quis ultrices turpis, a bibendum eros. Phasellus porta nisl urna, at porttitor sem dignissim ullamcorper. Etiam et interdum dui. In lobortis non lorem in semper. Quisque venenatis placerat auctor. Quisque a auctor leo. Aenean porta tempor enim, at feugiat libero consequat vel.
+
+Maecenas vel dapibus dolor. Nam dictum posuere eros eget efficitur. Cras et elementum libero. In hac habitasse platea dictumst. Aliquam justo ipsum, laoreet sed condimentum fermentum, congue eget urna. Pellentesque ut vulputate sem. Donec ac nibh ac risus porta interdum vel sit amet est. Mauris sed libero auctor purus iaculis luctus non vel quam. Nullam rhoncus accumsan nisi vel semper. Vestibulum sit amet facilisis elit. Duis luctus neque efficitur vulputate varius.
+
+Sed euismod tristique est, a lobortis ligula commodo vel. Donec tristique finibus gravida. Sed pharetra libero sit amet sem pellentesque, vitae porta nisl iaculis. Aliquam leo nunc, dictum et rutrum vitae, ultricies nec massa. Vestibulum ut urna augue. Nulla congue eget ex vitae porttitor. Fusce vestibulum ultrices augue. Nulla facilisi. Curabitur semper dolor arcu, at hendrerit neque placerat ac. Vivamus pellentesque, lacus sit amet tempor dignissim, massa massa pharetra urna, eget eleifend dui quam non risus.
+
+Etiam eleifend nisi ut enim elementum, a scelerisque sapien interdum. Donec et est vel sem dictum vulputate eu sed dolor. Fusce congue, nisl non congue fermentum, augue nisl egestas nisi, non consectetur lectus orci sed lorem. Nulla blandit, purus non lacinia mollis, massa dolor tristique tortor, vel pulvinar dolor dolor vitae velit. Sed ornare mollis metus fringilla convallis. Praesent sed euismod mauris. Ut consequat eu urna at dictum. Pellentesque nunc orci, placerat posuere quam id, molestie condimentum orci. Fusce eleifend dolor vitae suscipit rhoncus.
